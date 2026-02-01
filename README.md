@@ -9,6 +9,8 @@ It acts as a reliable data backbone for monitoring trading performance over time
 
 The system is designed to run unattended, handle API constraints, and keep financial data consistent even when syncs are repeated.
 
+Live site: https://tokaielite.com
+
 ---
 
 ## Problem Statement
@@ -22,6 +24,20 @@ Third-party trading platforms like Myfxbook introduce real operational challenge
 - Financial data must remain accurate at all times
 
 Tokai exists to control these issues and provide a stable and auditable data layer.
+
+---
+
+## Core Features
+
+- Automated Myfxbook API synchronization
+- Cron-based and manual sync execution
+- Fresh authentication on every sync
+- Idempotent trade history processing
+- Duplicate-safe inserts and controlled updates
+- Accurate balance, profit, and gain tracking
+- Masked trading account identifiers
+- Monthly and historical performance views
+- Admin interface for monitoring and manual sync control
 
 ---
 
@@ -46,21 +62,6 @@ Tokai exists to control these issues and provide a stable and auditable data lay
 ### Mobile Dashboard View
 ![5  ADMIN MOBILE DASHBOARD](https://github.com/user-attachments/assets/3afa2ee3-9330-485e-aba1-327e2f25d675)
 
-
-
----
-
-## Core Features
-
-- Automated Myfxbook API synchronization
-- Cron-based and manual sync execution
-- Fresh authentication on every sync
-- Idempotent trade history processing
-- Duplicate-safe inserts and controlled updates
-- Accurate balance, profit, and gain tracking
-- Masked trading account identifiers
-- Monthly and historical performance views
-- Admin interface for monitoring and manual sync control
 
 ---
 
@@ -186,12 +187,6 @@ For code samples, see my other public repositories.
 
 - `architecture.md` – system structure and data flow  
 - `decisions.md` – technical decisions and trade-offs  
-
----
-
-## Live System
-
-https://tokaielite.com/
 
 ---
 
