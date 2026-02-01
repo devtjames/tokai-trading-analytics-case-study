@@ -28,27 +28,22 @@ Tokai exists to control these issues and provide a stable and auditable data lay
 ## Screenshots
 
 ### Home
-![Home]
 ![1  HOMEPAGE](https://github.com/user-attachments/assets/2927e906-7c36-44d1-8bdb-1a47916d4649)
 
 
 ### Admin Login
-![Admin Login]
 ![2  ADMIN LOGIN](https://github.com/user-attachments/assets/fd75d8e3-91df-42fa-8518-a02b733f63e2)
 
 
 ### Dashboard
-![Dashboard]
 ![3  ADMIN DASHBOARD](https://github.com/user-attachments/assets/f8e61921-fce8-481d-b518-0738d992804b)
 
 
 ### Trade Sync History & Analysis
-![Trade Sync History]
 ![4  ADMIN SYNC TRADING ANALYSIS HISTORY](https://github.com/user-attachments/assets/42d61a84-7abe-4dc7-b565-2f9a7ad046cf)
 
 
 ### Mobile Dashboard View
-![Mobile Dashboard]
 ![5  ADMIN MOBILE DASHBOARD](https://github.com/user-attachments/assets/3afa2ee3-9330-485e-aba1-327e2f25d675)
 
 
