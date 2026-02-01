@@ -192,4 +192,4 @@ For code samples, see my other public repositories.
 
 ## Contact
 
-If you want to discuss this project or review the code privately, feel free to reach out.
+If you want to discuss this project or review the code privately, feel free to reach out at: mail.devtjames@gmail.com
